@@ -24,7 +24,7 @@
 
 ## 🎮 Về tôi
 
-Tôi là lập trình viên chuyên phát triển **Tools cho Thiên Long Bát Bộ (TLBB)** sử dụng ngôn ngữ **C#**. Với đam mê game và lập trình, tôi tạo ra các Tools hỗ trợ người chơi có trải nghiệm tốt hơn.
+Phát triển **Tools cho Thiên Long Bát Bộ (TLBB)** sử dụng ngôn ngữ **C#**. Với đam mê game và lập trình, tôi tạo ra các Tools hỗ trợ người chơi có trải nghiệm tốt hơn.
 
 ## 💻 Chuyên môn
 
